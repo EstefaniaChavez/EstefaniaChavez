@@ -32,7 +32,7 @@ I started in the world of programming at the beginning of 2022 and since then I 
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a>
-<img src=https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png  style="height: 5px;" /> 
+<img src=https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png  style="height: 20px;" /> 
 estefaniachavez1506@gmail.com
 </a>  
 </div>  
