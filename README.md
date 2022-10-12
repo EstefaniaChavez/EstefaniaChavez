@@ -8,23 +8,9 @@
 ### I'm Estefania😁. I am a Full-Stack Web Developer and I work with the following technologies: JavaScript, Express, Sequelize, Postgre SQL, Node JS, React JS, HTML, CSS.
 
 I started in the world of programming at the beginning of 2022 and since then I have not stopped acquiring knowledge. In this world I have been able to exploit my creativity and my desire to learn at all times.  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
+ 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -37,16 +23,6 @@ I started in the world of programming at the beginning of 2022 and since then I 
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -57,7 +33,6 @@ I started in the world of programming at the beginning of 2022 and since then I 
 </a>  
 </div>  
   
-
 <br/>  
 
 
@@ -66,13 +41,6 @@ I started in the world of programming at the beginning of 2022 and since then I 
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=EstefaniaChavez&&style=flat-square" align="center" />
